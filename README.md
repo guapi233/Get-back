@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 06    阵雨
 * day 05    阴
 * day 04    小雨
 * day 03    多云转雨

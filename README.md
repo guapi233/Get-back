@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* **day 10	晴**
 * day 09    晴
 * **day 08    阴** 
 * day 07    中雨

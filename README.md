@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 19    晴
 * day 18    晴
 * day 17    晴
 * day 16    晴

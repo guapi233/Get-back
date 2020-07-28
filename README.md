@@ -5,6 +5,8 @@ fix bad manner
 
 ## log
 
+* day 23    晴
+* day 22    阵雨
 * day 21    晴
 * day 20    晴
 * day 19    晴

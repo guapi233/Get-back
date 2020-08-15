@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 40    晴
 * day 39    晴
 * day 38    大雨
 * **day 37    阵雨**

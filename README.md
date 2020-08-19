@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 44    小雨
 * day 43    阴
 * day 42    中雨
 * day 41    小雨

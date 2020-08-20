@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 46    多云
 * day 45    阵雨
 * day 44    小雨
 * day 43    阴

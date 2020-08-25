@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 51    晴
 * day 50    晴
 * day 49    中雨
 * day 48    晴

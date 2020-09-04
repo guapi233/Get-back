@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 60    晴
 * day 59    阵雨
 * <font  color="red">day 58    阵雨</font>
 * day 57    晴

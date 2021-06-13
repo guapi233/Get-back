@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* day 341    晴
 * <font  color="red">day 340    晴</font>
 * <font  color="red">day 339    晴</font>
 * day 338    晴

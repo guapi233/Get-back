@@ -5,6 +5,7 @@ fix bad manner
 
 ## log
 
+* <font  color="red">day 493    晴 </font>
 * day 492    晴
 * day 491    晴
 * day 490    晴
@@ -496,4 +497,4 @@ fix bad manner
 * day 04    小雨
 * day 03    多云转雨
 * day 02    晴
-* day 01    晴
+* day 01    晴 

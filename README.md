@@ -5,9 +5,11 @@ fix bad manner
 
 ## log
 
-* day 818    晴
+* day 820    晴
+* day 819    晴
+* <font  color="red">day 818    晴 </font>
 * <font  color="red">day 817    晴 </font>
-* <font  color="red">day 816    晴 </font>
+* day 816    晴
 * day 815    晴
 * day 814    晴
 * day 813    晴
